@@ -24,4 +24,4 @@ D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web 
  11. Donut Charts (https://www.youtube.com/watch?v=0KB1tKCs7qE "Donut Charts")
  12. Making a Bar Graph (https://www.youtube.com/watch?v=ZaU56QvqLu8&t=642s "Making a Bar Graph")
  13. Adding Tooltips To Your Bar Graph (https://www.youtube.com/watch?v=wsCOif7RMBo "Adding Tooltips To Your Bar Graph")
- 14. Bar Graph Axis Lines ( "Bar Graph Axis Lines")
+ 14. Bar Graph Axis Lines ( "Bar Graph Axis Lines")  
